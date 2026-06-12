@@ -1,4 +1,4 @@
-# 📚 LangChain RAG Literature Review System
+# LangChain RAG Literature Review System
 
 A production-ready **Retrieval-Augmented Generation (RAG)** system for academic literature review, built with LangChain, ChromaDB, and OpenAI. Ingest PDFs, query across papers, synthesize insights, and generate structured literature reviews.
 
@@ -22,7 +22,7 @@ A production-ready **Retrieval-Augmented Generation (RAG)** system for academic 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -48,7 +48,7 @@ A production-ready **Retrieval-Augmented Generation (RAG)** system for academic 
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone & Install
 
@@ -103,7 +103,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 langchain-rag-literature-review/
@@ -152,7 +152,7 @@ langchain-rag-literature-review/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Edit `config/settings.yaml` or use environment variables:
 
@@ -169,7 +169,7 @@ Edit `config/settings.yaml` or use environment variables:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 pytest tests/ -v
@@ -178,7 +178,7 @@ pytest tests/ --cov=src --cov-report=html
 
 ---
 
-## 📖 Usage Examples
+## Usage Examples
 
 ### Python API
 
@@ -213,7 +213,7 @@ print(review)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repo
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
