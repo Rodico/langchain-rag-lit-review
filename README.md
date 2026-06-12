@@ -8,17 +8,17 @@ A production-ready **Retrieval-Augmented Generation (RAG)** system for academic 
 
 ---
 
-## ✨ Features
+##  Features
 
-- **📄 Multi-format ingestion** — PDF, TXT, HTML, and arXiv URL support
-- **🔍 Semantic search** — Dense vector retrieval via ChromaDB + OpenAI embeddings
-- **🧠 Hybrid retrieval** — Combines BM25 sparse + dense vector search
-- **📝 Literature review generation** — Structured synthesis: themes, gaps, methodology comparison
-- **💬 Conversational Q&A** — Chat with your paper collection with memory
-- **🏷️ Metadata filtering** — Filter by author, year, journal, topic
-- **📊 Citation tracking** — Automatic citation extraction and formatting
-- **🌐 Streamlit UI** — Browser-based interface for non-technical users
-- **⚡ CLI interface** — Scriptable command-line tool for automation
+- **Multi-format ingestion** — PDF, TXT, HTML, and arXiv URL support
+- **Semantic search** — Dense vector retrieval via ChromaDB + OpenAI embeddings
+- **Hybrid retrieval** — Combines BM25 sparse + dense vector search
+- **Literature review generation** — Structured synthesis: themes, gaps, methodology comparison
+- **Conversational Q&A** — Chat with your paper collection with memory
+- **Metadata filtering** — Filter by author, year, journal, topic
+- **Citation tracking** — Automatic citation extraction and formatting
+- **Streamlit UI** — Browser-based interface for non-technical users
+- **CLI interface** — Scriptable command-line tool for automation
 
 ---
 
